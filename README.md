@@ -10,7 +10,7 @@ NER tag = entity boundary tag + entity type tag
 
 As we all know, labeling sequence data behaves much more expensive and time-comsuming. 
 
-**Transferable-E2E-ABSA***: we firstly explore an unsupervised domain adaptation (UDA) setting for cross-domain E2E-ABSA. Unlike the traditional UDA in classification problems, this task aims to leverage knowledge from a labeled source domain to improve the ***sequence learning*** in an unlabeled target domain.
+**Transferable-E2E-ABSA**: we firstly explore an unsupervised domain adaptation (UDA) setting for cross-domain E2E-ABSA. Unlike the traditional UDA in classification problems, this task aims to leverage knowledge from a labeled source domain to improve the ***sequence learning*** in an unlabeled target domain.
 
 
 
