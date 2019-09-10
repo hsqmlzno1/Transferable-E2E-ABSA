@@ -5,6 +5,7 @@
 **1) E2E-ABSA**: This task aims to jointly learn aspects as well as their sentiments from user reviews, whch can be effectively formulated as an end-to-end manner based on the unified tagging scheme.
 
 The unified tagging is similar to the NER tagging.
+
 unified tag = aspect boundary tag + sentiment tag
 NER tag = entity boundary tag + entity type tag
 
