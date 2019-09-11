@@ -2,7 +2,7 @@
 
 Data and source code for our EMNLP'19 Long paper "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning".
 
-# Task Definition
+# Introduction
 
 **1) E2E-ABSA**: This task aims to jointly learn aspects as well as their sentiments from user reviews, whch can be effectively formulated as an end-to-end sequence labeling problem based on the unified tagging scheme.
 
