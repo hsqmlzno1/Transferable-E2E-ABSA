@@ -20,4 +20,4 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 
 
-We will release the code and paper soon!
+The code and paper are expected to be released in the late Oct.
