@@ -1,6 +1,6 @@
 # Transferable-E2E-ABSA
 
-Data and source code for our EMNLP'19 Long paper "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning".
+Data and source code for our EMNLP'19 Long paper, oral "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning".
 
 # Introduction
 
