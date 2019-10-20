@@ -21,3 +21,17 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 
 The code and paper are expected to be released in the late Oct.
+
+
+# Citation
+
+If the data is useful for your research, please be kindly to give us stars and cite our paper as follows:
+
+```
+@article{li2019sal,
+  title={Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification},
+  author={Li, Zheng and Li, Xin and Zhang, Yu and Zhang, Xiang and Li, Xin and Yang, Qiang},
+  journal={EMNLP},
+  year={2019}
+}
+```
