@@ -31,7 +31,7 @@ If the data is useful for your research, please be kindly to give us stars and c
 @article{li2019sal,
   title={Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification},
   author={Li, Zheng and Li, Xin and Wei Ying and Bing Lidong and Zhang Yu and Yang, Qiang},
-  journal={EMNLP},
+  conference={EMNLP},
   year={2019}
 }
 ```
