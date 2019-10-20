@@ -25,7 +25,7 @@ The code and paper are expected to be released in the late Oct.
 
 # Citation
 
-If the data is useful for your research, please be kindly to give us stars and cite our paper as follows:
+If the source code and data are useful for your research, please be kindly to give us stars and cite our paper as follows:
 
 ```
 @article{li2019sal,
