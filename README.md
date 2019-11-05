@@ -13,7 +13,7 @@ Oct 31th, 2019: The paper has been released in the arkiv.
 
 The unified tagging is similar to the NER tagging.
 
-unified tag = aspect boundary tag + sentiment tag
+**unified tag** = aspect boundary tag + sentiment tag
 
 NER tag = entity boundary tag + entity type tag
 
