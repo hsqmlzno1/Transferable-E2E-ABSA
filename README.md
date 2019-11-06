@@ -27,7 +27,7 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 + Tensorflow-gpu 1.4.1
 
-+ numpy 1.13.3
++ numpy 1.15.4
 
 
 # Environment
