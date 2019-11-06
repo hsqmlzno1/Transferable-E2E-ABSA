@@ -21,8 +21,39 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 **2) Transferable-E2E-ABSA**: we firstly explore an unsupervised domain adaptation (UDA) setting for cross-domain E2E-ABSA. Unlike the traditional UDA in classification problems, this task aims to leverage knowledge from a labeled source domain to improve the ***sequence learning*** in an unlabeled target domain.
 
+# Requirements
++ Python 2.7.5
 
++ Tensorflow-gpu 1.4.1
 
++ numpy 1.13.3
+
++ [Google Word2Vec](https://code.google.com/archive/p/word2vec/)
+
+# Environment
++ OS: CentOS Linux release 7.5.1804
++ GPU: NVIDIA TITAN Xp
++ CUDA: 8.0
+
+# Running
+
+### AD-SAL (Full Model): 
+selective adversairal learning
+```
+python main.py --train --test -s rest -t service -model_name AD-SAL -selective
+```
+
+### AD-AL (Abaltion Model): 
+adversairal learning
+```
+python main.py --train --test -s rest -t service -model_name AD-AL
+```
+
+### Training over all transfer pairs:
+```
+./train_AD-AL.sh
+./train_AD-SAL.sh
+```
 
 # Citation
 
