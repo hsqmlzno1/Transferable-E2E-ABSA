@@ -660,7 +660,6 @@ def set_lm_labels(dataset, vocab, stm_lex, stm_win=3):
     return dataset
 
 
-# New add by Zheng Li
 def set_padding(dataset, max_len):
 
     n_records = len(dataset)
@@ -701,7 +700,6 @@ def build_dataset(source_domain, target_domain, input_win=1, tagging_schema='BIO
 
     vocab, char_vocab, max_len = get_vocab(train_set+val_set+tar_un_set+test_set)
 
-    # New add by Zheng Li
     train_set  = set_padding(dataset=train_set, max_len=max_len)
     val_set    = set_padding(dataset=val_set, max_len=max_len)
     tar_un_set = set_padding(dataset=tar_un_set, max_len=max_len)
@@ -1006,7 +1004,6 @@ def batch_generator(dataset, batch_size, shuffle=True):
         batch_count += 1
         yield [d[start:end] for d in data]
 
-# Add by ZhengLi
 def transform_data_format(data):
 
     words = []
