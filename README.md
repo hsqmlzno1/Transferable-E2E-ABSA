@@ -51,8 +51,8 @@ python main.py --train --test -s rest -t service -model_name AD-AL
 
 ### Training over all transfer pairs:
 ```
-./train_AD-AL.sh
-./train_AD-SAL.sh
+./scripts/train_AD-AL.sh
+./scripts/train_AD-SAL.sh
 ```
 
 # Citation
