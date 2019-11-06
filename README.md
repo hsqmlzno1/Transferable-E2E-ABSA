@@ -23,7 +23,7 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 **2) Transferable-E2E-ABSA**: we firstly explore an unsupervised domain adaptation (UDA) setting for cross-domain E2E-ABSA. Unlike the traditional UDA in classification problems, this task aims to leverage knowledge from a labeled source domain to improve the ***sequence learning*** in an unlabeled target domain.
 
 # Requirements
-+ Python 2.7.5
++ Python 2.7.12
 
 + Tensorflow-gpu 1.4.1
 
