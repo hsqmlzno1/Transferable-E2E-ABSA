@@ -4,8 +4,8 @@ Data and source code for our EMNLP'19 Long paper, oral "[Transferable End-to-End
 
 
 ## Update:
+Oct 6th, 2019: The experimental code (not fully clean version) has been released.
 Oct 31th, 2019: The paper has been released in the arkiv.
-
 
 # Introduction
 
