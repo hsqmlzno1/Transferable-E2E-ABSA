@@ -36,7 +36,7 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 # Running
 
-Downloading the word embedding and then move it to the data directory. The embedding is pre-trained on Yelp and Electronics. [Download](https://pan.baidu.com/s/1sAQ9CSvd0QDiYkUmVpunOA) password: zlyc 
+[Download](https://pan.baidu.com/s/1sAQ9CSvd0QDiYkUmVpunOA) (Password: zlyc) the word embedding and then move it to the data directory. The embedding is pre-trained on Yelp and Electronics dataset.   
 
 ### AD-SAL (full Model): 
 selective adversairal learning on the low-level AD task.
