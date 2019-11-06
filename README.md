@@ -38,13 +38,13 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 # Running
 
 ### AD-SAL (full Model): 
-selective adversairal learning
+selective adversairal learning on the low-level AD task.
 ```
 python main.py --train --test -s rest -t service -model_name AD-SAL -selective
 ```
 
 ### AD-AL (abaltion Model): 
-adversairal learning
+pure adversairal learning without selectivity on the low-level AD task.
 ```
 python main.py --train --test -s rest -t service -model_name AD-AL
 ```
