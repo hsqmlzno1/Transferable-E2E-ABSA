@@ -29,7 +29,6 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 + numpy 1.13.3
 
-+ [Google Word2Vec](https://code.google.com/archive/p/word2vec/)
 
 # Environment
 + OS: CentOS Linux release 7.5.1804
