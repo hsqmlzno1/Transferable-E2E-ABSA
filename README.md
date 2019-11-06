@@ -61,7 +61,7 @@ If the source code and data are useful for your research, please be kindly to gi
 
 ```
 @article{li2019sal,
-  title={Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification},
+  title={Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning},
   author={Li, Zheng and Li, Xin and Wei Ying and Bing Lidong and Zhang Yu and Yang, Qiang},
   conference={EMNLP},
   year={2019}
