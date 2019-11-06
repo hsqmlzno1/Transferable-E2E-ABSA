@@ -29,13 +29,14 @@ As we all know, labeling sequence data behaves much more expensive and time-coms
 
 + numpy 1.15.4
 
-
 # Environment
 + OS: CentOS Linux release 7.5.1804
 + GPU: NVIDIA TITAN Xp
 + CUDA: 8.0
 
 # Running
+
+Downloading the word embedding and then move it to the data directory. The embedding is pre-trained on Yelp and Electronics. [Download](https://pan.baidu.com/s/1sAQ9CSvd0QDiYkUmVpunOA) password: zlyc 
 
 ### AD-SAL (full Model): 
 selective adversairal learning on the low-level AD task.
