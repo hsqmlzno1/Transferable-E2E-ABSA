@@ -1,4 +1,6 @@
 # Transferable-E2E-ABSA
+![](https://github.com/hsqmlzno1/Transferable-E2E-ABSA/raw/master/framework.png)
+
 
 Data and source code for our EMNLP'19 Long paper, oral, "[Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning](https://hsqmlzno1.github.io/assets/publications/SAL2019.pdf)".
 
@@ -21,8 +23,6 @@ The unified tagging is similar to the NER tagging.
 As we all know, labeling sequence data behaves much more expensive and time-comsuming. 
 
 **2) Transferable-E2E-ABSA**: we firstly explore an unsupervised domain adaptation (UDA) setting for cross-domain E2E-ABSA. Unlike the traditional UDA in classification problems, this task aims to leverage knowledge from a labeled source domain to improve the ***sequence learning*** in an unlabeled target domain.
-
-![](https://github.com/hsqmlzno1/Transferable-E2E-ABSA/raw/master/framework.png)
 
 # Requirements
 + Python 2.7.12
